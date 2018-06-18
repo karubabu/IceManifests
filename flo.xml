@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <project name="AICP/device_asus_flo" path="device/asus/flo" remote="aicp" revision="o8.1" />
-  <project name="flar2/flo" path="kernel/google/msm" remote="aicp" revision="ElementalX-7.00" />
-  <project name="Flex1911/proprietary_vendor_asus" path="vendor/asus" remote="aicp" revision="lineage-15.1" />
-</manifest>
