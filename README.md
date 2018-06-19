@@ -1,0 +1,2 @@
+# IceManifests
+floでAICPをopengapps付きで使うためのlocal_manifests
